@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'PhoneGapTemplateIOS' target in the 'PhoneGapTemplateIOS' project
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+#endif
